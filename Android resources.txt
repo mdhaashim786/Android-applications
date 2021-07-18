@@ -1,0 +1,45 @@
+How to run the application 
+----------------------------------------
+There are 2 ways
+1.By using emulator(Virtual device)
+2.By using realtime device(Physical device)
+_____________________________________
+Toast Message:
+Toast.makeTest(context,"which text u want to display")
+Toast.LENGTH.LONG
+
+what is context?
+---------------------
+Context means environment
+app enviroment(getApplicationContext())
+class environment(this keyword)
+____________________________________________
+If we want to access the xml file views(components) to the java file
+findViewById()
+
+8-6-2020
+---------------------------------------------
+Creating Menu Directory
+Step-1:
+	First create a 'menu' ....
+
+________________________________________
+Dependencies to go maps in android
+    implementation 'com.google.android.libraries.maps:maps:3.1.0-beta'
+    implementation 'com.google.android.libraries.places:places:2.3.0'
+    implementation 'com.google.maps.android:android-maps-utils:2.0.0'
+    implementation 'com.google.android.gms:play-services-gcm:17.0.0'
+    implementation 'com.google.auto.value:auto-value-annotations:1.6.2'
+    implementation 'com.google.android.gms:play-services-maps:17.0.0'
+____________________________________________________________
+
+Training programs resource links:-
+https://github.com/AP-Skill-Development-Corporation/Android-Students-Training-Batch-1
+https://docs.gradle.org/current/userguide/dependency_management_for_java_projects.html
+https://developer.android.com/courses/fundamentals-training/overview-v2
+https://codelabs.developers.google.com/codelabs/android-room-with-a-view/#3
+
+__________________________________________________________________
+Python
+https://github.com/AP-State-Skill-Development-Corporation/Data-Analysis-Using-Python-MB1
+
